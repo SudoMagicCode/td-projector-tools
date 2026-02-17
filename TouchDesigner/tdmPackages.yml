@@ -1,6 +1,6 @@
-name: ""
+name: "TD-Projector Tools"
 tdVersion: ""
 tdPackages:
     - package: github.com/SudoMagicCode/td-comp-icon
-      releaseTag: v1.0.6
+      releaseTag: v1.2.8
 pythonRequirements: []
